@@ -54,5 +54,5 @@ To clone this repository to your local system, follow these steps:
 3. Use the following command to clone the repository:
 
  ```bash
-   git clone https://github.com/sahilsingh12221802/Social-Network-Analysis-Using-R-Programming
+   git clone https://github.com/sahilsingh12221802/Social-Network-Analysis-Using-R-Programming.git
 ```
