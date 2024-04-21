@@ -56,3 +56,17 @@ To clone this repository to your local system, follow these steps:
  ```bash
    git clone https://github.com/sahilsingh12221802/Social-Network-Analysis-Using-R-Programming.git
 ```
+
+## ScreenShots📸
+<img width="500" alt="Screenshot 2024-04-21 at 12 37 21 PM" src="https://github.com/sahilsingh12221802/Social-Network-Analysis-Using-R-Programming/assets/114878612/a3a01aee-fe95-4758-ae12-0bc0055eb581">
+<img width="500" alt="Screenshot 2024-04-21 at 12 37 33 PM" src="https://github.com/sahilsingh12221802/Social-Network-Analysis-Using-R-Programming/assets/114878612/77722c34-53f9-4154-8e7d-e06acebe012a">
+<img width="500" alt="Screenshot 2024-04-21 at 12 37 50 PM" src="https://github.com/sahilsingh12221802/Social-Network-Analysis-Using-R-Programming/assets/114878612/a06c7ef6-2cad-4194-8718-47b692525537">
+<img width="500" alt="Screenshot 2024-04-21 at 12 38 06 PM" src="https://github.com/sahilsingh12221802/Social-Network-Analysis-Using-R-Programming/assets/114878612/5af7ae1b-19a3-4cd6-b96b-b07d91abbc51">
+<img width="500" alt="Screenshot 2024-04-21 at 12 38 21 PM" src="https://github.com/sahilsingh12221802/Social-Network-Analysis-Using-R-Programming/assets/114878612/dd1f7c2f-d022-41d3-a72d-06fbf3dc18b7">
+
+
+
+
+
+
+
